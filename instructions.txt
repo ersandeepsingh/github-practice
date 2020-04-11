@@ -82,7 +82,14 @@ Commands Line:-
 	git push origin master
 
 	
+11. Branches creation in local:-
 	
+	git branch [brach-name]		# create a new branch
+	
+	git checkout -b [brach-name]	# switch to that branch (it creates if it does not exist).
+	
+	git push -u [origin] [branch]		# push branch to github 
+		
 	
 	
 	
