@@ -81,6 +81,7 @@ Commands Line:-
 	
 	git push origin master
 
+10. Pulling the Code from Remote to Local
 	
 	
 	
