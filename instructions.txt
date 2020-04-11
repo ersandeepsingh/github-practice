@@ -1,6 +1,6 @@
 Importtant Conecept:-
 
-States of Git:-
+
 
 1. Commited - basically stored in the local DB. 
 2. Modified - file has been changed but not commited in DB yet.
